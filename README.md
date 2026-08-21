@@ -1,2 +1,3 @@
 # Bongkot
-This is my portfolio for frontend developer 
+บงกช โพธิสวัสดิ์
+อีเมล: bongkotsakura@gmail.com
